@@ -1,0 +1,30 @@
+.img-position {
+    margin-top: 100px;
+    margin-left: 156px;
+}
+
+.every-moment {
+    margin-top: 173px;
+    margin-left: 35px;
+}
+
+.every-moment .btn-bg {
+    background-color: #3F87F5;
+    width: 230px;
+    height: 44px;
+}
+
+.our-pcg {
+    margin-top: 100px;
+}
+
+.card-position {
+    margin-left: 135px;
+    margin-right: 135px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.card .card-inline {
+    margin-left: 34px;
+}
